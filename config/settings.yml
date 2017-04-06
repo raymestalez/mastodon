@@ -1,10 +1,10 @@
 # config/app.yml for rails-settings-cached
 defaults: &defaults
-  site_title: 'Mastodon'
-  site_description: ''
-  site_extended_description: ''
-  site_contact_username: ''
-  site_contact_email: ''
+  site_title: 'Hacker Tribe'
+  site_description: 'Community of Hackers and Founders'
+  site_extended_description: 'This is a community for people who are interested in startups, programming, science, and tech. Our goal is to share and discuss insighful ideas that gratify intellectual curiosity, share our experience, and help each other to make awesome things.'
+  site_contact_username: 'rayalez'
+  site_contact_email: 'raymestalez@gmail.com'
   open_registrations: true
   closed_registrations_message: ''
   notification_emails:
